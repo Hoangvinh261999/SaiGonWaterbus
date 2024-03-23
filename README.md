@@ -1,0 +1,1 @@
+A group project to develop a website for booking waterway tickets in Ho Chi Minh City, developed using Java Spring, Spring Boot, MySQL, and JSP, with the utilization of other frameworks such as Bootstrap 5 and Spring Security
